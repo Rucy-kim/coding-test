@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7679a35e-5be5-4e3e-9290-b24ba52a818c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding-test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applebuy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/land/Land.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numberpair/NumberPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Divide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Minus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Plus.java" afterDir="false" />
-    </list>
+    <list default="true" id="7679a35e-5be5-4e3e-9290-b24ba52a818c" name="Changes" comment="[프로그래머스] 과일 장수" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,6 +132,19 @@
       <option name="presentableId" value="Default" />
       <updated>1735888452226</updated>
     </task>
+    <task id="LOCAL-00001" summary="[프로그래머스] 과일 장수">
+      <option name="closed" value="true" />
+      <created>1736327030151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736327030151</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[프로그래머스] 과일 장수" />
+    <option name="LAST_COMMIT_MESSAGE" value="[프로그래머스] 과일 장수" />
   </component>
 </project>
